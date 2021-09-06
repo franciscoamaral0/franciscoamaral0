@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Soccer-Zone -> https://soccer-zone.netlify.app/
 - 💬 Ask me about  HTML, CSS, JS, ReactJs, NodeJS and MongoDB 
 - 📫 How to reach me: franciscogurgel@me.com
+- 💼 Linkedin: https://www.linkedin.com/in/franciscom-amaral/
