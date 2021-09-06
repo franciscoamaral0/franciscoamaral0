@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently student at IronHack/São Paulo ...
-- 🌱 I’m currently learning  HTML, CSS, JAVASCRIPT, NODE, REACT...
-- 👯 I’m looking to collaborate on Prework-Ironhack(PRE PROJECT BOOTCAMP)
-- 💬 Ask me about  HTML,CSS,JS
+- 🌱 I’m currently learning  MongoDB/NextJS...
+- 👯 I’m looking to collaborate on Soccer-Zone -> https://soccer-zone.netlify.app/
+- 💬 Ask me about  HTML, CSS, JS, ReactJs, NodeJS and MongoDB 
 - 📫 How to reach me: franciscogurgel@me.com
